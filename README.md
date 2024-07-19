@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">I'm your friendly .NET Developer</h3>
 
-- 🔭 My current side project: [Migliore Unturned S.T.A.L.K.E.R. RP](https://discord.gg/FVmkF7R76j)
+- 🔭 My current side project: TBA
 
 - 🌱 I’m currently learning **.NET 8, TypeScript**
 
