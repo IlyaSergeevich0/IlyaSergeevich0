@@ -3,7 +3,7 @@
 A MAI student, mentor and self-taught .NET developer.
 
 [![](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:iliya.kalugin@gmail.com)
-[![](https://img.shields.io/badge/-Discord-000?&logo=Discord)](https://discord.gg/ilyasergeevich__)
+[![](https://img.shields.io/badge/-Discord-000?&logo=Discord)](https://discordapp.com/users/368725936037822465)
 [![](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)](https://t.me/kaluga_junior)
 
 ### Side Projects
