@@ -19,6 +19,7 @@ A MAI student, mentor and self-taught .NET developer.
 
 ### Technologies
 
+[![](https://img.shields.io/badge/-.NET-000?&logo=dotnet)](https://github.com/IlyaSergeevich0)
 [![](https://img.shields.io/badge/-ASP.NET-000?&logo=dotnet)](https://github.com/IlyaSergeevich0)
 [![](https://img.shields.io/badge/-Unity-000?&logo=unity)](https://github.com/IlyaSergeevich0)
 [![](https://img.shields.io/badge/-WebAssembly-000?&logo=webassembly)](https://github.com/IlyaSergeevich0)
