@@ -15,7 +15,6 @@ A MAI student, mentor and self-taught .NET developer.
 [![C#](https://img.shields.io/badge/-C%23-000?&logo=dotnet&logoColor=0057b8)](https://github.com/IlyaSergeevich0)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=0057b8)](https://github.com/IlyaSergeevich0)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://github.com/IlyaSergeevich0)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://github.com/IlyaSergeevich0)
 
 ### Technologies
 
@@ -25,9 +24,7 @@ A MAI student, mentor and self-taught .NET developer.
 [![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://github.com/IlyaSergeevich0)
 [![](https://img.shields.io/badge/-MySQL-000?&logo=mysql)](https://github.com/IlyaSergeevich0)
 [![](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)](https://github.com/IlyaSergeevich0)
-[![](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)](https://github.com/IlyaSergeevich0)
 [![](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)](https://github.com/IlyaSergeevich0)
-[![](https://img.shields.io/badge/-RabbitMQ-000?&logo=rabbitmq)](https://github.com/IlyaSergeevich0)
 
 ### Other
 
