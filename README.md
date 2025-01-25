@@ -14,7 +14,7 @@ A MAI student, mentor and self-taught .NET developer.
 
 [![C#](https://img.shields.io/badge/-C%23-000?&logo=dotnet&logoColor=0057b8)](https://github.com/IlyaSergeevich0)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=0057b8)](https://github.com/IlyaSergeevich0)
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://github.com/IlyaSergeevich0)
+[![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://github.com/IlyaSergeevich0)
 
 ### Technologies
 
