@@ -23,7 +23,6 @@ A MAI student, mentor and self-taught .NET developer.
 [![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://github.com/IlyaSergeevich0)
 [![](https://img.shields.io/badge/-MySQL-000?&logo=mysql)](https://github.com/IlyaSergeevich0)
 [![](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)](https://github.com/IlyaSergeevich0)
-[![](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)](https://github.com/IlyaSergeevich0)
 
 ### Other
 
