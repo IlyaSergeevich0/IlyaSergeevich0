@@ -8,21 +8,24 @@ A MAI student, mentor and self-taught .NET developer.
 
 ### Side Projects
 
-[![](https://img.shields.io/badge/-TBA-000?&logo=framework)](https://github.com/IlyaSergeevich0)
+[![](https://img.shields.io/badge/-NeftGames-000?&logo=accenture)](https://neft.games)
 
 ### Languages
 
-[![C#](https://img.shields.io/badge/-C%23-000?&logo=dotnet&logoColor=0057b8)](https://github.com/IlyaSergeevich0)
-[![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=0057b8)](https://github.com/IlyaSergeevich0)
+[![C#](https://img.shields.io/badge/-C%23-000?&logo=sharp&logoColor=0057b8)](https://github.com/IlyaSergeevich0)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)](https://github.com/IlyaSergeevich0)
+[![C++](https://img.shields.io/badge/-javascript-000?&logo=javascript)](https://github.com/IlyaSergeevich0)
 
 ### Technologies
 
 [![](https://img.shields.io/badge/-.NET-000?&logo=dotnet)](https://github.com/IlyaSergeevich0)
 [![](https://img.shields.io/badge/-ASP.NET-000?&logo=dotnet)](https://github.com/IlyaSergeevich0)
-[![](https://img.shields.io/badge/-Unity-000?&logo=unity)](https://github.com/IlyaSergeevich0)
+[![](https://img.shields.io/badge/-Unity-000?&logo=unity)](https://github.com/IlyaSergeevich0)<br/>
 [![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://github.com/IlyaSergeevich0)
 [![](https://img.shields.io/badge/-MySQL-000?&logo=mysql)](https://github.com/IlyaSergeevich0)
-[![](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)](https://github.com/IlyaSergeevich0)
+[![](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)](https://github.com/IlyaSergeevich0)<br/>
+[![](https://img.shields.io/badge/-React-000?&logo=react)](https://github.com/IlyaSergeevich0)
+[![](https://img.shields.io/badge/-SolidJS-000?&logo=solid)](https://github.com/IlyaSergeevich0)
 
 ### Other
 
